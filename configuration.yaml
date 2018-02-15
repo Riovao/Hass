@@ -1,6 +1,6 @@
 homeassistant:
   # Name of the location where Home Assistant is running
-  name: RV-201801
+  name: RV-201801-2
   # Location required to calculate the time the sun rises and sets
   latitude: 43.352111
   longitude: -8.264065
@@ -24,7 +24,7 @@ config:
 
 http:
   # Secrets are defined in the file secrets.yaml
-  api_password: Sada20051973
+  api_password: !secret http_password
   # Uncomment this if you are using SSL/TLS, running in Docker container, etc.
   # base_url: example.duckdns.org:8123
 
