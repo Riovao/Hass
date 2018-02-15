@@ -1,0 +1,3 @@
+# Hass
+
+Private files
