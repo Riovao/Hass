@@ -1,0 +1,56 @@
+
+000830288d28:
+  hide_if_away: false
+  icon:
+  mac: 00:08:30:28:8D:28
+  name: Switch Cisco
+  picture: http://icons.iconarchive.com/icons/webalys/kameleon.pics/256/Laptop-Signal-icon.png
+  track: true
+  vendor: Cisco Systems, Inc
+  
+# http://www.iconarchive.com/show/kameleon.pics-icons-by-webalys.html
+
+a08cfdb8f358:
+  hide_if_away: false
+  icon:
+  mac: A0:8C:FD:B8:F3:58
+  name: Multifuncion HP
+  picture:
+  track: true
+  vendor: Hewlett Packard
+
+08ea40f5f64f:
+  hide_if_away: false
+  icon:
+  mac: 08:EA:40:F5:F6:4F
+  name: Camara
+  picture:
+  track: true
+  vendor: SHENZHEN BILIAN ELECTRONIC CO.，LTD
+
+02000063d9ec:
+  hide_if_away: false
+  icon:
+  mac: 02:00:00:63:D9:EC
+  name: 02000063d9ec
+  picture:
+  track: true
+  vendor: unknown
+
+livebox:
+  hide_if_away: false
+  icon:
+  mac: E0:51:63:99:0D:38
+  name: Livebox
+  picture:
+  track: true
+  vendor: unknown
+
+00089bf6c3c1:
+  hide_if_away: false
+  icon:
+  mac: 00:08:9B:F6:C3:C1
+  name: 00089bf6c3c1
+  picture:
+  track: true
+  vendor: unknown
